@@ -10,16 +10,16 @@ const Navbar: React.FC = () => {
                 {/* <BixiLogo className="h-[20px] align-item-start justify-self-end fill-current text-themeBlue"/> */}
             </div>
             <div className="grid grid-flow-col gap-2 justify-stretch">
-                <div className="text-lg justify-self-center border-2 font-semibold border-white hover:border-themeBlue rounded-full px-4 text-themeBlue cursor-pointer">
+                <div className="text-lg justify-self-center border-2 font-semibold border-clearSky hover:border-themeBlue rounded-full px-4 text-themeBlue cursor-pointer">
                     Home
                 </div>
-                <div className="text-lg justify-self-center font-semibold text-themeBlue border-2 border-white hover:border-themeBlue rounded-full px-4 cursor-pointer">
+                <div className="text-lg justify-self-center font-semibold text-themeBlue border-2 border-clearSky hover:border-themeBlue rounded-full px-4 cursor-pointer">
                     About
                 </div>
-                <div className="text-lg justify-self-center font-semibold text-themeBlue border-2 border-white hover:border-themeBlue rounded-full px-4 cursor-pointer">
+                <div className="text-lg justify-self-center font-semibold text-themeBlue border-2 border-clearSky hover:border-themeBlue rounded-full px-4 cursor-pointer">
                     Service
                 </div>
-                <div className="h-fit text-lg justify-self-center font-semibold text-themeBlue border-2 border-white hover:border-themeBlue rounded-full px-4 cursor-pointer">
+                <div className="h-fit text-lg justify-self-center font-semibold text-themeBlue border-2 border-clearSky hover:border-themeBlue rounded-full px-4 cursor-pointer">
                     Contact
                 </div>
                 <div className='flex gap-6 font-semibold w-fit'>

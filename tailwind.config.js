@@ -17,8 +17,16 @@ export default {
       },
       colors:{
         themeBlue: "#61BCB9",
-        backpack: "#F29978"
-      }
+        backpack: "#F29978",
+        papayaWhip: "#F6EDE8",
+        clearSky: "#F2FAFA"
+      },
+      fontFamily: {
+        titleHans: "Black Han Sans",
+        alfaSlab: "Alfa Slab One",
+        cabinSketch: "Cabin Sketch",
+        dosisBody: "Dosis"
+      },
     },
   },
   plugins: [],
